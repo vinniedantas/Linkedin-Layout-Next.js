@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body,
+input,
+textarea,
+select,
+button {
+	font: 400 1rem "Mulish", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font: 400 1rem "Mulish", sans-serif;
+}
+
+button {
+	cursor: pointer;
+}
